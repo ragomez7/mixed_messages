@@ -24,3 +24,5 @@ const carreer_selection = messageComponents.carreers[carreer_index];
 
 //Logging the full message
 console.log(hero_selection + " wishes you " + wish_selection + " " + carreer_selection + "!");
+
+//End of script
